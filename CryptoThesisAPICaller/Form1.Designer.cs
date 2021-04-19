@@ -64,7 +64,6 @@ namespace CryptoThesisAPICaller
             this.apiTextBox.Name = "apiTextBox";
             this.apiTextBox.Size = new System.Drawing.Size(234, 23);
             this.apiTextBox.TabIndex = 2;
-            this.apiTextBox.Text = "A___CnifAdmUCbVl036CxYNhY6WXhDur";
             // 
             // blockchainComboBox
             // 
